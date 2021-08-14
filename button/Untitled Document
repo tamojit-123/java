@@ -1,0 +1,6 @@
+import java.awt.*;
+import java.awt.event.*;
+class MyFrame extends Frame implements ActionListiner
+{
+Button b1,b2,b3;
+MyFrame()
